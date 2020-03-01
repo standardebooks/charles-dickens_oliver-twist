@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/oliver-twist</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-03-01T17:50:51Z</dc:date>
+		<meta property="dcterms:modified">2020-03-01T17:50:51Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,14 +57,14 @@
 		<dc:description id="description">A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Oliver Twist, or The Parish Boy’s Progress&lt;/i&gt; was Charles Dickens’ second novel, following &lt;i&gt;The Pickwick Papers&lt;/i&gt;, and was published as a serial in the magazine &lt;i&gt;Bentley’s Miscellany&lt;/i&gt; between 1837 and 1839. It details the misadventures of its eponymous character, Oliver Twist, born in a Victorian-era workhouse, his mother dying within minues of his birth. He is raised in miserable conditions, half-starved, and then sent out as an apprentice to an undertaker. Running away from this situation, he walks to London and falls under the influence of a criminal gang run by an old man called Fagin, who wants to employ the child as a pickpocket.&lt;/p&gt;
-			&lt;p&gt;The novel graphically depicts the wretched living conditions of much of the poor people of Victorian times and the disgusting slums in which they were forced to live. It has been accused of perpetrating anti-Semitic stereotypes in the character of Fagin, almost always referred to as “the Jew” in the earlier chapters of the book. Interestingly, while the serial was still running in the magazine, Dickens was eventually persuaded that he was wrong in this and removed many such usages in later episodes. He also introduced more kindly Jewish characters in such later novels as &lt;i&gt;Our Mutual Friend&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The novel graphically depicts the wretched living conditions of much of the poor people of Victorian times and the disgusting slums in which they were forced to live. It has been accused of perpetrating anti-Semitic stereotypes in the character of Fagin, almost always referred to as “the Jew” in the book’s early chapters. Interestingly, while the serial was still running in the magazine, Dickens was eventually persuaded that he was wrong in this and removed many such usages in later episodes. He also introduced more kindly Jewish characters in such later novels as &lt;i&gt;Our Mutual Friend&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Oliver Twist&lt;/i&gt; was immediately popular in serial form, with its often gripping story and lurid details. It has remained one of Dicken’s best-loved novels, and the story has often been made into films and television series, as well as into a very popular musical, &lt;i&gt;Oliver!&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/730</dc:source>
 		<dc:source>https://archive.org/details/olivertwist1907dick</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">160253</meta>
+		<meta property="se:reading-ease.flesch">70.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oliver_Twist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_oliver-twist</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -94,6 +94,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
