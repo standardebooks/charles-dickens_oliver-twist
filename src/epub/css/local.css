@@ -4,7 +4,6 @@
 #chapter-17 blockquote header p{
 	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
 }
 
 span[epub|type~="subtitle"]{
