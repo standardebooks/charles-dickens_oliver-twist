@@ -54,6 +54,9 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008106304</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">30</meta>
 		<dc:description id="description">A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Oliver Twist, or The Parish Boy’s Progress&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens’&lt;/a&gt; second novel, following &lt;i&gt;The Pickwick Papers&lt;/i&gt;, and was published as a serial in the magazine &lt;i&gt;Bentley’s Miscellany&lt;/i&gt; between 1837 and 1839. It details the misadventures of its eponymous character, Oliver Twist, born in a Victorian-era workhouse, his mother dying within minutes of his birth. He is raised in miserable conditions, half-starved, and then sent out as an apprentice to an undertaker. Running away from this situation, he walks to London and falls under the influence of a criminal gang run by an old man called Fagin, who wants to employ the child as a pickpocket.&lt;/p&gt;
