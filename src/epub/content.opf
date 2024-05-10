@@ -67,7 +67,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/730</dc:source>
 		<dc:source>https://archive.org/details/olivertwist1907dick</dc:source>
 		<meta property="se:word-count">160254</meta>
-		<meta property="se:reading-ease.flesch">70.23</meta>
+		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oliver_Twist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_oliver-twist</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
