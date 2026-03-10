@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-12.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>The title is correctly titlecased; the `se titlecase` tool incorrectly lowercases "and" after a full stop.</reason>
 		</ignore>
 	</file>
